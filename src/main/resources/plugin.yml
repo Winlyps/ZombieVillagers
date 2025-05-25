@@ -1,0 +1,5 @@
+name: ZombieVillagers
+version: '1.0.0'
+main: winlyps.zombieVillagers.ZombieVillagers
+api-version: '1.20'
+authors: [ Winlyps ]
